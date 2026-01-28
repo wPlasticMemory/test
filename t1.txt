@@ -1,2 +1,3 @@
 print("hello")
 bug
+print("func3")
