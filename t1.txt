@@ -1,4 +1,1 @@
 print("hello")
-bug
-print("func3")
-print("func4")
